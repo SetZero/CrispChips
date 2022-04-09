@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "fpga")(type "KiCad")(uri "${KIPRJMOD}/libs/fpga.pretty")(options "")(descr ""))
+  (lib (name "supply")(type "KiCad")(uri "${KIPRJMOD}/libs/supply.pretty")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/libs/misc.pretty")(options "")(descr ""))
+  (lib (name "peripheral")(type "KiCad")(uri "${KIPRJMOD}/peripheral.pretty")(options "")(descr ""))
+  (lib (name "uc")(type "KiCad")(uri "${KIPRJMOD}/libs/uc.pretty")(options "")(descr ""))
+)

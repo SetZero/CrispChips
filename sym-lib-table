@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "fpga")(type "KiCad")(uri "${KIPRJMOD}/libs/fpga.kicad_sym")(options "")(descr ""))
+  (lib (name "peripheral")(type "KiCad")(uri "${KIPRJMOD}/libs/peripheral.kicad_sym")(options "")(descr ""))
+  (lib (name "uc")(type "KiCad")(uri "${KIPRJMOD}/libs/uc.kicad_sym")(options "")(descr ""))
+  (lib (name "supply")(type "KiCad")(uri "${KIPRJMOD}/libs/supply.kicad_sym")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/libs/misc.kicad_sym")(options "")(descr ""))
+)

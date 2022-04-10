@@ -1,4 +1,4 @@
-19795852055433905
+19807399348621522
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77545,6 +77545,34 @@ rotary encoder
 0
 5
 4
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+QFN65P400X400X75-17N
+L16.4x4G
+Integrated Circuit
+0
+17
+17
+SamacSys_Parts
+QFP50P1600X1600X120-100N
+VQG100
+Integrated Circuit
+0
+100
+100
+SamacSys_Parts
+SON127P800X600X80-9N-D
+WSON 8x6-mm
+Integrated Circuit
+0
+9
+9
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -84475,3 +84503,24 @@ varistor SIOV
 0
 2
 2
+fpga
+QFP50P1600X1600X120-100N
+VQG100
+Integrated Circuit
+0
+100
+100
+fpga
+SON127P800X600X80-9N-D
+WSON 8x6-mm
+Integrated Circuit
+0
+9
+9
+supply
+QFN65P400X400X75-17N
+L16.4x4G
+Integrated Circuit
+0
+17
+17

@@ -126,6 +126,21 @@
   )
 
 
+  (global_label "VCC" (shape input) (at 144.78 36.83 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 473a8d4d-df21-4840-bdcd-72796207d649)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 144.7006 30.7883 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "GND" (shape input) (at 148.59 36.83 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 80467da6-bc60-41f1-ba29-a6374295d509)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 148.5106 30.5464 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
   (symbol (lib_id "supply:ISL9307IRTAANFZ-T7A") (at 38.1 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3ed69f8a-94d6-46c2-b3f8-1a758ab88827)

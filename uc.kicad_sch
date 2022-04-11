@@ -350,6 +350,21 @@
   )
 
 
+  (global_label "VCC" (shape input) (at 48.26 31.75 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 460eea90-6772-4a85-8a6c-5edf5a5dfccf)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 48.1806 25.7083 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "GND" (shape input) (at 52.07 31.75 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e079b12e-5d8a-4ce0-8de4-0547ee86c802)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 51.9906 25.4664 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
   (symbol (lib_id "uc:ESP32-S2-MINI-1-N4R2") (at 81.28 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 56bf4599-2b41-41cf-b71f-5bd6342266e1)

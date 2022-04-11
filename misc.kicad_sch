@@ -7,4 +7,19 @@
   (lib_symbols
   )
 
+
+  (global_label "GND" (shape input) (at 64.77 34.29 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 209e8f2e-49cd-46be-bd5e-df620fa90aef)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 64.6906 28.0064 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "VCC" (shape input) (at 60.96 34.29 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a8131767-d328-420c-91ea-a40d72596c79)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 60.8806 28.2483 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
 )

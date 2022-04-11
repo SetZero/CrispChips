@@ -544,6 +544,21 @@
   )
 
 
+  (global_label "GND" (shape input) (at 24.13 22.86 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 31521c6d-950e-41b9-bbc2-73d0f59a4a9c)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 24.0506 16.5764 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "VCC" (shape input) (at 20.32 22.86 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 553b1e3a-cef7-4b0a-af0a-8127317f9be1)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 20.2406 16.8183 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+
   (symbol (lib_id "fpga:XC3S250E-4VQG100C") (at 31.75 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3cbf4820-6289-48f2-a959-0ed537db056e)

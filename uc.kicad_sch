@@ -888,7 +888,7 @@
   )
 
   (no_connect (at 163.83 50.8) (uuid a135038e-11b8-42ae-af40-b95b1b29750a))
-  (no_connect (at 163.83 48.26) (uuid a135038e-11b8-42ae-af40-b95b1b29750a))
+  (no_connect (at 163.83 48.26) (uuid a135038e-11b8-42ae-af40-b95b1b29750b))
 
   (wire (pts (xy 200.66 52.07) (xy 200.66 54.61))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -1253,7 +1253,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28bdab8b-d7a2-4fe4-85e3-7d125cc69a88)
   )
-  (text "TODO:\n\n- connection to FPGA\n- external FLASH?\n- external Crystal?"
+  (text "TODO:\n\n- connection to FPGA\n- external FLASH?\n- external Crystal?\n- EDU-MINI JTAG possible?"
     (at 130.81 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 55bc2901-8658-4417-b39d-8a605f82a2ed)

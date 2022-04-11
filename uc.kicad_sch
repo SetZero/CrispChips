@@ -1253,6 +1253,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28bdab8b-d7a2-4fe4-85e3-7d125cc69a88)
   )
+  (text "TODO:\n\n- connection to FPGA\n- external FLASH?\n- external Crystal?"
+    (at 130.81 90.17 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 55bc2901-8658-4417-b39d-8a605f82a2ed)
+  )
   (text "EDU-MINI-Header" (at 163.83 34.29 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8f12f764-b6de-4c5e-bf97-b0ce0a356a22)

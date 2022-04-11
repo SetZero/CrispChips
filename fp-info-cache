@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-19810698681309208
+19810698693860468
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84511,9 +84510,6 @@ varistor SIOV
 0
 2
 2
-=======
--9223367088009774524
->>>>>>> 8d19a59c832e78f98a449859c2eb5e06c0d25090
 fpga
 QFP50P1600X1600X120-100N
 VQG100

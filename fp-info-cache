@@ -1,4 +1,4 @@
-19807399348621522
+19810698681309208
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,6 +77546,13 @@ rotary encoder
 5
 4
 SamacSys_Parts
+ESP32S2MINI1N4R2
+ESP32-S2-MINI-1-N4R2-1
+Integrated Circuit
+0
+73
+73
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
@@ -84524,3 +84531,10 @@ Integrated Circuit
 0
 17
 17
+uc
+ESP32S2MINI1N4R2
+ESP32-S2-MINI-1-N4R2-1
+Integrated Circuit
+0
+73
+73

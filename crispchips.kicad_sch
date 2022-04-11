@@ -84,6 +84,42 @@
   )
 
   (symbol_instances
+    (path "/5fa44da3-fe2c-43e9-9e1a-30cb987e5331/00107d07-4841-4d54-8523-229947144926"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/116caedd-e806-4026-8ad4-1c9ce99e1126"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5fa44da3-fe2c-43e9-9e1a-30cb987e5331/330ba1ba-1d70-40be-b9b9-a219402e9f32"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/3f73d152-40f3-45ea-a011-ca860f657c68"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/5fa44da3-fe2c-43e9-9e1a-30cb987e5331/7510d496-9551-40e6-9381-174f90207b34"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/417db1ab-c054-441e-b38c-cec025f522f8/7765452c-37c7-48b3-9f13-f5eccd9a7ddc"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/a08e65e7-c958-484e-bfb9-580afd9e12c3"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/31d50b03-2e97-441c-ae02-e44e83af3f90/dfc5bd9d-5193-471b-b22e-4192693b5e69"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/417db1ab-c054-441e-b38c-cec025f522f8/e10d062d-5a68-4f9a-8dda-25d71699a088"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/e39b17f8-a868-4b47-989c-e125a20b1f23"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/31d50b03-2e97-441c-ae02-e44e83af3f90/e973844b-e6c6-40f2-8130-d751ca55e22e"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/5fa44da3-fe2c-43e9-9e1a-30cb987e5331/fd28f98e-9796-453e-affa-9eaafea2ed38"
+      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+    )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/3cbf4820-6289-48f2-a959-0ed537db056e"
       (reference "IC?") (unit 1) (value "XC3S250E-4VQG100C") (footprint "fpga:QFP50P1600X1600X120-100N")
     )
@@ -95,6 +131,9 @@
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/d09d45e0-1bb2-468e-afd5-f5f8a9c6dae0"
       (reference "IC?") (unit 1) (value "W25N512GVEIG") (footprint "fpga:SON127P800X600X80-9N-D")
+    )
+    (path "/5fa44da3-fe2c-43e9-9e1a-30cb987e5331/92871fbc-fd59-4fae-b84b-98e4307c7f9e"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
     )
   )
 )

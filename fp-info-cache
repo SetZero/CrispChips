@@ -1,4 +1,4 @@
-19810698693860468
+19813998424316905
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77574,6 +77574,13 @@ Integrated Circuit
 100
 100
 SamacSys_Parts
+SON50P300X400X90-13N
+L12.3x4_2021
+Integrated Circuit
+0
+13
+13
+SamacSys_Parts
 SON127P800X600X80-9N-D
 WSON 8x6-mm
 Integrated Circuit
@@ -84531,6 +84538,13 @@ Integrated Circuit
 0
 17
 17
+supply
+SON50P300X400X90-13N
+L12.3x4_2021
+Integrated Circuit
+0
+13
+13
 uc
 ESP32S2MINI1N4R2
 ESP32-S2-MINI-1-N4R2-1

@@ -1,4 +1,4 @@
-19815648717401091
+19817299012601745
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84532,6 +84532,13 @@ Integrated Circuit
 9
 9
 supply
+NR5040T4R7N
+
+
+0
+0
+0
+supply
 QFN65P400X400X75-17N
 L16.4x4G
 Integrated Circuit
@@ -84550,8 +84557,8 @@ TO-236AB
 
 
 0
-0
-0
+3
+3
 uc
 ESP32S2MINI1N4R2
 ESP32-S2-MINI-1-N4R2-1

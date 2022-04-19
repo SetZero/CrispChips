@@ -1,4 +1,4 @@
-19820599758780241
+19822250144276913
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77567,6 +77567,13 @@ Integrated Circuit
 25
 25
 SamacSys_Parts
+QFN50P500X500X85-33N-D
+HVQFN32
+Integrated Circuit
+0
+33
+33
+SamacSys_Parts
 QFN65P400X400X75-17N
 L16.4x4G
 Integrated Circuit
@@ -84525,12 +84532,12 @@ varistor SIOV
 2
 2
 fpga
-QFN50P400X400X100-25N-D
-QFN24_2021
+QFN50P500X500X85-33N-D
+HVQFN32
 Integrated Circuit
 0
-25
-25
+33
+33
 fpga
 QFP50P1600X1600X120-100N
 VQG100

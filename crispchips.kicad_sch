@@ -453,6 +453,9 @@
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/3cbf4820-6289-48f2-a959-0ed537db056e"
       (reference "IC?") (unit 1) (value "XC3S250E-4VQG100C") (footprint "fpga:QFP50P1600X1600X120-100N")
     )
+    (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/3cfa212e-e96d-45b3-adc2-4f0c5a5497c6"
+      (reference "IC?") (unit 1) (value "PCA9306DCUR") (footprint "SOP50P310X90-8N")
+    )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/3ed69f8a-94d6-46c2-b3f8-1a758ab88827"
       (reference "IC?") (unit 1) (value "ISL9307IRTAANFZ-T7A") (footprint "supply:QFN65P400X400X75-17N")
     )

@@ -1,4 +1,4 @@
-19830519340719603
+19838776920040824
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,6 +77546,13 @@ rotary encoder
 5
 4
 SamacSys_Parts
+DIOM5126X265N
+STPS160AFN
+Schottky Diode
+0
+2
+2
+SamacSys_Parts
 HD0419THTR
 HD04-19-TH-TR-2
 Connector
@@ -84532,12 +84539,26 @@ Resettable Fuse
 2
 2
 fpga
+DIOM5126X265N
+STPS160AFN
+Schottky Diode
+0
+2
+2
+fpga
 ESD10P-0.5-2.5X1X0.58MM
 
 
 0
 10
 10
+fpga
+HD0419THTR
+HD04-19-TH-TR-2
+Connector
+0
+23
+23
 fpga
 QFN50P500X500X85-33N-D
 HVQFN32
@@ -84559,6 +84580,13 @@ TVS Diode (Uni-directional)
 0
 10
 10
+fpga
+SODFL1608X70N
+SOD-523 CASE 502
+Diode
+0
+2
+2
 fpga
 SON127P800X600X80-9N-D
 WSON 8x6-mm
@@ -84587,6 +84615,13 @@ NR5040T4R7N
 0
 2
 2
+supply
+PJ063BH
+PJ-063BH
+Connector
+0
+4
+4
 supply
 QFN65P400X400X75-17N
 L16.4x4G

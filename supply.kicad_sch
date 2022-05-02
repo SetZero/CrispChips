@@ -2549,7 +2549,7 @@
     (uuid ac58a97f-c6a4-48b8-a535-98c8a0992524)
     (property "Reference" "J1" (id 0) (at 33.02 62.23 0))
     (property "Value" "Barrel_Jack" (id 1) (at 33.02 64.77 0))
-    (property "Footprint" "SamacSys_Parts:PJ063BH" (id 2) (at 34.29 72.136 0)
+    (property "Footprint" "fpga:PJ063BH" (id 2) (at 34.29 72.136 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 34.29 72.136 0)

@@ -463,10 +463,10 @@
       (reference "C39") (unit 1) (value "100n/25V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/b9b0b784-cf90-4431-8e03-d045c4160160"
-      (reference "D1") (unit 1) (value "DIODE") (footprint "")
+      (reference "D1") (unit 1) (value "DIODE") (footprint "fpga:SODFL1608X70N")
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/49ef487d-6ccb-4f78-8880-25034aeb233b"
-      (reference "D2") (unit 1) (value "DIODE") (footprint "")
+      (reference "D2") (unit 1) (value "DIODE") (footprint "fpga:DIOM5126X265N")
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/9db95652-5ac4-410c-90ee-89fd02f547ad"
       (reference "D3") (unit 1) (value "RCLAMP0524PATCT") (footprint "fpga:RCLAMP0524PATCT")
@@ -511,7 +511,7 @@
       (reference "IC6") (unit 1) (value "W25N512GVEIG") (footprint "fpga:SON127P800X600X80-9N-D")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/ac58a97f-c6a4-48b8-a535-98c8a0992524"
-      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "SamacSys_Parts:PJ063BH")
+      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "fpga:PJ063BH")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/d73de7a3-114c-46b3-b1db-7b936e068b53"
       (reference "J2") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
@@ -523,7 +523,7 @@
       (reference "J4") (unit 1) (value "JTAG") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/43448496-79db-4f13-b217-68c91d4ee579"
-      (reference "J5") (unit 1) (value "HDMI_A") (footprint "SamacSys_Parts:HD0419THTR")
+      (reference "J5") (unit 1) (value "HDMI_A") (footprint "fpga:HD0419THTR")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/a097c6f7-ab46-4ef7-acaf-4965d4408c81"
       (reference "L1") (unit 1) (value "4.7u") (footprint "supply:NR5040T4R7N")

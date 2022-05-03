@@ -348,6 +348,9 @@
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/9f161b4a-fac5-479f-9213-20e41367726c"
       (reference "C1") (unit 1) (value "22n/50V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
+    (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/140321da-79e9-4953-b729-4c3c95f41bb8"
+      (reference "C2") (unit 1) (value "1u/10V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/9551bca0-ee45-4512-b8d3-e6c20263ec61"
       (reference "C3") (unit 1) (value "100n/25V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
@@ -458,9 +461,6 @@
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/8e9cbda5-27bf-4c9c-90be-7c72da95fce0"
       (reference "C39") (unit 1) (value "100n/25V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
-    )
-    (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/140321da-79e9-4953-b729-4c3c95f41bb8"
-      (reference "C?") (unit 1) (value "1u/10V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/b9b0b784-cf90-4431-8e03-d045c4160160"
       (reference "D1") (unit 1) (value "DIODE") (footprint "fpga:SODFL1608X70N")

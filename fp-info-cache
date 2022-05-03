@@ -1,4 +1,4 @@
-19838776920040824
+19848684932568369
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77546,26 +77546,19 @@ rotary encoder
 5
 4
 SamacSys_Parts
-DIOM5126X265N
-STPS160AFN
-Schottky Diode
+1812L010DR
+1812L
+Resettable Fuse
 0
 2
 2
 SamacSys_Parts
-HD0419THTR
-HD04-19-TH-TR-2
-Connector
-0
-23
-23
-SamacSys_Parts
-MP2329GGZ
-MP2329GG-Z-1
+ESP32S2MINI1N4R2
+ESP32-S2-MINI-1-N4R2-1
 Integrated Circuit
 0
-11
-11
+73
+73
 SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
@@ -77574,19 +77567,40 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
-PJ063BH
-PJ-063BH
-Connector
+QFN50P400X400X100-25N-D
+QFN24_2021
+Integrated Circuit
 0
-4
-4
+25
+25
 SamacSys_Parts
-RK09D113BF25B15
-RK09D113BF25B15-1
-Variable Resistor
+QFN50P500X500X85-33N-D
+HVQFN32
+Integrated Circuit
 0
-5
-5
+33
+33
+SamacSys_Parts
+QFN65P400X400X75-17N
+L16.4x4G
+Integrated Circuit
+0
+17
+17
+SamacSys_Parts
+QFP50P1600X1600X120-100N
+VQG100
+Integrated Circuit
+0
+100
+100
+SamacSys_Parts
+RCLAMP0524PATCT
+SLP2510P8
+TVS Diode (Uni-directional)
+0
+10
+10
 SamacSys_Parts
 SODFL1608X70N
 SOD-523 CASE 502
@@ -77595,12 +77609,40 @@ Diode
 2
 2
 SamacSys_Parts
-SRN8040TA3R3Y
-SRN8040TA-3R3Y
-Inductor
+SON50P300X400X90-13N
+L12.3x4_2021
+Integrated Circuit
 0
-2
-2
+13
+13
+SamacSys_Parts
+SON127P800X600X80-9N-D
+WSON 8x6-mm
+Integrated Circuit
+0
+9
+9
+SamacSys_Parts
+SOP50P310X90-8N
+DCU (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+SOT65P210X110-6N
+SC-88(SOT-363) CASE 419B-02 ISSUE Y
+Transistor
+0
+6
+6
+SamacSys_Parts
+SOT96P237X111-3N
+SOT-23 (TO-236) CASE 318-08 ISSUE AR
+MOSFET (N-Channel)
+0
+3
+3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf

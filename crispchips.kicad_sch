@@ -511,7 +511,7 @@
       (reference "IC6") (unit 1) (value "W25N512GVEIG") (footprint "fpga:SON127P800X600X80-9N-D")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/ac58a97f-c6a4-48b8-a535-98c8a0992524"
-      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "fpga:PJ063BH")
+      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "supply:PJ063BH")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/d73de7a3-114c-46b3-b1db-7b936e068b53"
       (reference "J2") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")

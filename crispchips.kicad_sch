@@ -679,16 +679,16 @@
       (reference "SW2") (unit 1) (value "SW_Push") (footprint "")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/800c9f30-c6d0-4925-8dd0-ce8cc5296c8f"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm")
+      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/fc0b2ac0-7282-4927-b29f-4edb0e8619ba"
-      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm")
+      (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/c9e82637-2666-4810-81fd-158e532e40c0"
-      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm")
+      (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/ec9066d7-3b26-43b8-9196-e734eaaca0a0/81fba749-288d-4056-b1e6-dd756c9831fb"
-      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Plated_Hole_D2.0mm")
+      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm")
     )
     (path "/d9d2db0f-b7ab-4fec-8844-ea8008c8800f/43f44044-5f6d-468f-99c9-eea53eafc142"
       (reference "X1") (unit 1) (value "ECS-2016MV-500-BN-TR3") (footprint "Oscillator:Oscillator_DIP-14")
